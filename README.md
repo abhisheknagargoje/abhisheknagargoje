@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Abhishek Nagargoje</h1>
 <h3 align="center">An aspiring programmer</h3>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C++** & **Web Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
